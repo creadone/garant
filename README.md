@@ -1,6 +1,6 @@
 # Garant
 
-Gem help to prevents the collisions when generating a large number of hashes. For example you decided to try Ruby module `SecureRandom`:
+Gem helps to prevent the collisions when generating a large number of hashes. For example you decided to try Ruby module `SecureRandom`:
 
 ```Ruby
 require 'set'
